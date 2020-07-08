@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.AssemblyInfo.cs
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.exe
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.deps.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.runtimeconfig.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.runtimeconfig.dev.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO\bin\Debug\netcoreapp3.1\TREINO.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO\obj\Debug\netcoreapp3.1\TREINO.genruntimeconfig.cache
